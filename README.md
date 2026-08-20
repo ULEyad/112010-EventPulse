@@ -1,10 +1,5 @@
 # EventPulse — Event Management Backend API
 
-> ⚠️ **Before you do anything else:** rename this project folder and the
-> `"name"` field in `package.json` to match the required naming convention:
-> **`YourStudentID-EventPulse`**. Everything else in this README assumes
-> that's already done.
-
 JavaScript Backend Essentials — Level 4, Semester 2 capstone project. A
 complete Node.js/Express/MongoDB backend for an event management platform,
 covering all 7 project tasks: architecture, authentication, events API,
