@@ -1,6 +1,7 @@
 # EventPulse — Event Management Backend API
 
 **Live deployment:** https://112010-event-pulse.vercel.app
+**Repository:** https://github.com/ULEyad/112010-EventPulse
 
 JavaScript Backend Essentials — Level 4, Semester 2 capstone project. A
 complete Node.js/Express/MongoDB backend for an event management platform,
